@@ -14,7 +14,7 @@
   <img alt="Clone da interface do Instagram" src=".github/preview.png" width="100%">
 </p>
 
-Acesse o projeto [aqui](https://fel1324.github.io/Interface-Instagram/)
+Acesse o projeto [aqui](https://fel1324.github.io/Clone-interface-Instagram/)
 
 <br>
 
