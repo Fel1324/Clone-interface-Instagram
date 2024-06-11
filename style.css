@@ -26,11 +26,10 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 60%;
 }
 
 .instagram-phone img{
-  width: 30rem;
+  width: 100%;
 }
 
 .instagram-continue{
@@ -119,6 +118,11 @@ body{
   height: 3rem;
   width: 10rem;
   background-size: cover;
+
+  transition: transform .3s ease-in-out;
+  &:hover{
+    transform: scale(1.1);
+  }
 }
 
 /* media queries */
