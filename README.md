@@ -27,8 +27,7 @@ Acesse o projeto [aqui](https://fel1324.github.io/Clone-interface-Instagram/)
 
 ## 💻 Projeto
 
-O projeto é um clone de umas das antigas interface do App Instagram. <br>
-Esse projeto se adapta em diferentes tamanhos de tela (é responsivo).
+O projeto é um clone de umas das antigas interfaces do App Instagram.
 
 <br>
 
