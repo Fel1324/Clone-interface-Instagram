@@ -15,7 +15,7 @@ html, body{
 }
 
 body{
-  background-color: rgb(243, 243,243);
+  background-color: #f3f3f3;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -29,6 +29,8 @@ body{
 }
 
 .instagram-phone img{
+  margin-top: 1rem;
+  
   width: 100%;
 }
 
@@ -132,11 +134,23 @@ body{
   }
 }
 
-@media (max-width: 650px){
-  body{
-    background-color: #ffffff;
+@media screen and (max-width: 810px) {
+  .instagram-phone img{
+    margin-top: 0;
+    
+    width: 25rem;
   }
 
+  .instagram-continue .group:nth-child(1){
+    margin-top: 2.5rem;
+  }
+
+  .get-the-app{
+    margin-bottom: 2.5rem;
+  }
+}
+
+@media (max-width: 735px){
   .instagram-wrapper{
     width: 90%;
   }
@@ -147,9 +161,5 @@ body{
 
   .instagram-continue{
     width: 100%;
-  }
-
-  .group{
-    border: 1px solid transparent;
   }
 }
